@@ -1,4 +1,4 @@
-import abs
+import dashboard
 import streamlit as st
 
 # Writes the Sidebar label
