@@ -8,7 +8,7 @@ from plotly import graph_objs as go
 import pandas as pd
 
 st.set_page_config(
-    page_title="Stock Price Forcast",
+    page_title="Dashboard",
     page_icon="📈",
 )
 

@@ -10,8 +10,7 @@ st.set_page_config(
 
 symbol = st.sidebar.text_input("Symbol", value="AAPL", max_chars=10)
 
-key = tk.NEWS_KEY
-r = requests.get(f"https://newsapi.org/v2/everything?q={symbol}&apiKey={key}")
+r = requests.get(f"https://newsapi.org/v2/everything?q={symbol}&apiKey={tk.key}")
 
 news_data = r.json()
 
