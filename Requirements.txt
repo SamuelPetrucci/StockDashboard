@@ -1,1 +1,5 @@
-pip install yfinance prophet streamlit pandas numpy plotly
+pip install yfinance 
+pip install prophet 
+pip install streamlit
+pip install pandas 
+pip install numpy plotly
