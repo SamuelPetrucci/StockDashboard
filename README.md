@@ -5,6 +5,7 @@
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Sample](#sample)
 
 ## About
 
@@ -26,6 +27,11 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run main.py
+
+## Sample
+
+To run a sample of my dash board visit: 
+44.201.125.193:8501
 
 
 
