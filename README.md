@@ -13,7 +13,8 @@ StockDashboard is a web application built using Streamlit, Yahoo Finance API, Pl
 It provides users with an interactive weba app to track stock data, analyze trends, and make informed decisions. 
 The integration of Yahoo Finance and Plotly ensures real-time stock updates and visually appealing charts.
 
-##Sample 
+ 
+## Sample
 
 To run a sample of my dashboard Visit:
 
@@ -33,7 +34,6 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run main.py
-
 
 
 
