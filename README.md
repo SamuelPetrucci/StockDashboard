@@ -22,17 +22,11 @@ git clone https://github.com/yourusername/StockDashboard.git
 cd StockDashboard
 
 # Install dependencies
-pip install -r Requirements.txt
+pip install -r requirements.txt
 
 # Run the application
 streamlit run main.py
 
-## Sample
-<video width="640" height="360" controls>
-  <source src="StockDashboard
-/ProjectSample - Made with Clipchamp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
